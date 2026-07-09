@@ -40,8 +40,8 @@ to update the Windows desktop wallpaper.
 4. The desktop wallpaper is updated.
 
 ## Screenshots
-
-### Original Wallpaper
+<p align="center">
+ ### Original Wallpaper
 
 <img src="Images/OriginalWallpaper.png" width="45%" alt="Original Wallpaper">
 
@@ -52,3 +52,12 @@ to update the Windows desktop wallpaper.
 ### New Wallpaper
 
 <img src="Images/NewWallpaper.png" width="45%" alt="New Wallpaper">
+</p>
+
+---
+
+## ✍️ Author
+Hazem Ahmad Hazem  
+- GitHub: https://github.com/HazemAhmadHaz
+- LinkedIn: https://www.linkedin.com/in/hazem-ahmad-haz
+- Email: HazemAhmad01234@gmail.com
