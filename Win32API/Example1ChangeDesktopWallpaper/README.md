@@ -40,19 +40,17 @@ to update the Windows desktop wallpaper.
 4. The desktop wallpaper is updated.
 
 ## Screenshots
-<p align="center">
- ### Original Wallpaper
+### Original Wallpaper
 
-<img src="Images/OriginalWallpaper.png" width="45%" alt="Original Wallpaper">
+<img src="Images/OriginalWallpaper.png" width="30%" alt="Original Wallpaper">
 
 ### Console Application
 
-<img src="Images/ConsoleApp.png" width="45%" alt="Console Application">
+<img src="Images/ConsoleApp.png" width="30%" alt="Console Application">
 
 ### New Wallpaper
 
-<img src="Images/NewWallpaper.png" width="45%" alt="New Wallpaper">
-</p>
+<img src="Images/NewWallpaper.png" width="30%" alt="New Wallpaper">
 
 ---
 
