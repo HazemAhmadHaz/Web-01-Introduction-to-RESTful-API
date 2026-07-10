@@ -1,0 +1,7 @@
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example5MessageBox\bin\Debug\Example5MessageBox.exe.config
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example5MessageBox\bin\Debug\Example5MessageBox.exe
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example5MessageBox\bin\Debug\Example5MessageBox.pdb
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example5MessageBox\obj\Debug\Example5MessageBox.csproj.AssemblyReference.cache
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example5MessageBox\obj\Debug\Example5MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example5MessageBox\obj\Debug\Example5MessageBox.exe
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example5MessageBox\obj\Debug\Example5MessageBox.pdb

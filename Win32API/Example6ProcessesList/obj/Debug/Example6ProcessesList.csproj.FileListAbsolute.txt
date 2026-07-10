@@ -1,0 +1,7 @@
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example6ProcessesList\bin\Debug\Example6ProcessesList.exe.config
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example6ProcessesList\bin\Debug\Example6ProcessesList.exe
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example6ProcessesList\bin\Debug\Example6ProcessesList.pdb
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example6ProcessesList\obj\Debug\Example6ProcessesList.csproj.AssemblyReference.cache
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example6ProcessesList\obj\Debug\Example6ProcessesList.csproj.CoreCompileInputs.cache
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example6ProcessesList\obj\Debug\Example6ProcessesList.exe
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example6ProcessesList\obj\Debug\Example6ProcessesList.pdb
