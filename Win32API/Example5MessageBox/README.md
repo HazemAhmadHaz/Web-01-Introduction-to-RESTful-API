@@ -23,7 +23,7 @@ This project uses `MessageBox()` from `user32.dll` to display a native Windows m
 
 ### Message Box
 
-<img src="Images/MessageBox.png" width="30%" alt="Message Box">
+<img src="Images/MessageBoxAppear.png" width="30%" alt="Message Box">
 
 ## Author
 

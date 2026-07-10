@@ -2,6 +2,15 @@
 
 A C# console application that lists all running processes on the system, along with their process ID and memory usage, using the Win32 API through P/Invoke.
 
+A process is a running instance of a program — each .exe you run (Chrome, svchost, your app) becomes one process with its own memory, ID, and resources.
+The functions in Example6 work like this:
+
+EnumProcesses — gets a list of all running process IDs on the system.
+OpenProcess — opens a handle to a specific process so you can query info about it.
+GetProcessMemoryInfo — given that handle, returns how much memory that process is using.
+
+So the flow is: enumerate all process IDs → open each one → ask how much memory it's using → print name + ID + memory.
+
 ## Technologies
 
 - C#

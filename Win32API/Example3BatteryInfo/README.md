@@ -2,6 +2,19 @@
 
 A C# console application that retrieves the current battery status using the Win32 API through P/Invoke.
 
+* (|) to combine two separate bits into one number:
+
+        0000 0001  (Read)
+      | 0000 0010  (Write)
+      = 0000 0011  (= 3, both bits set)
+
+
+* AND (&) — same technique as the battery example — to test one bit at a time:
+
+        0000 0011   (userPermissions)
+      & 0000 0100   (Execute mask)
+      = 0000 0000   (= 0 → doesn't have Execute)
+
 ## Technologies
 
 - C#
