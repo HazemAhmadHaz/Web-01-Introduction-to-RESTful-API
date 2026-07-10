@@ -1,0 +1,7 @@
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example4ShutdownWindows\bin\Debug\Example4ShutdownWindows.exe.config
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example4ShutdownWindows\bin\Debug\Example4ShutdownWindows.exe
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example4ShutdownWindows\bin\Debug\Example4ShutdownWindows.pdb
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example4ShutdownWindows\obj\Debug\Example4ShutdownWindows.csproj.AssemblyReference.cache
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example4ShutdownWindows\obj\Debug\Example4ShutdownWindows.csproj.CoreCompileInputs.cache
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example4ShutdownWindows\obj\Debug\Example4ShutdownWindows.exe
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example4ShutdownWindows\obj\Debug\Example4ShutdownWindows.pdb
