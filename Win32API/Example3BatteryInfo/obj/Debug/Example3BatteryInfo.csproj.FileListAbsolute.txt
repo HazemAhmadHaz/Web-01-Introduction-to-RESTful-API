@@ -1,0 +1,7 @@
+C:\Users\Marhaba\source\repos\Web\1.Introduction to RESTful API\Example3BatteryInfo\bin\Debug\Example3BatteryInfo.exe.config
+C:\Users\Marhaba\source\repos\Web\1.Introduction to RESTful API\Example3BatteryInfo\bin\Debug\Example3BatteryInfo.exe
+C:\Users\Marhaba\source\repos\Web\1.Introduction to RESTful API\Example3BatteryInfo\bin\Debug\Example3BatteryInfo.pdb
+C:\Users\Marhaba\source\repos\Web\1.Introduction to RESTful API\Example3BatteryInfo\obj\Debug\Example3BatteryInfo.csproj.AssemblyReference.cache
+C:\Users\Marhaba\source\repos\Web\1.Introduction to RESTful API\Example3BatteryInfo\obj\Debug\Example3BatteryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Marhaba\source\repos\Web\1.Introduction to RESTful API\Example3BatteryInfo\obj\Debug\Example3BatteryInfo.exe
+C:\Users\Marhaba\source\repos\Web\1.Introduction to RESTful API\Example3BatteryInfo\obj\Debug\Example3BatteryInfo.pdb

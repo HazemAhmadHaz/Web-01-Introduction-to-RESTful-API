@@ -1,0 +1,7 @@
+C:\Users\Marhaba\source\repos\Web\1.Introduction to RESTful API\Example2GetScreenResolution\bin\Debug\Example2GetScreenResolution.exe.config
+C:\Users\Marhaba\source\repos\Web\1.Introduction to RESTful API\Example2GetScreenResolution\bin\Debug\Example2GetScreenResolution.exe
+C:\Users\Marhaba\source\repos\Web\1.Introduction to RESTful API\Example2GetScreenResolution\bin\Debug\Example2GetScreenResolution.pdb
+C:\Users\Marhaba\source\repos\Web\1.Introduction to RESTful API\Example2GetScreenResolution\obj\Debug\Example2GetScreenResolution.csproj.AssemblyReference.cache
+C:\Users\Marhaba\source\repos\Web\1.Introduction to RESTful API\Example2GetScreenResolution\obj\Debug\Example2GetScreenResolution.csproj.CoreCompileInputs.cache
+C:\Users\Marhaba\source\repos\Web\1.Introduction to RESTful API\Example2GetScreenResolution\obj\Debug\Example2GetScreenResolution.exe
+C:\Users\Marhaba\source\repos\Web\1.Introduction to RESTful API\Example2GetScreenResolution\obj\Debug\Example2GetScreenResolution.pdb
