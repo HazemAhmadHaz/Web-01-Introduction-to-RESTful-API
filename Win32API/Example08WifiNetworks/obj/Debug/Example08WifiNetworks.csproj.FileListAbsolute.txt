@@ -1,0 +1,7 @@
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example08WifiNetworks\bin\Debug\Example08WifiNetworks.exe.config
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example08WifiNetworks\bin\Debug\Example08WifiNetworks.exe
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example08WifiNetworks\bin\Debug\Example08WifiNetworks.pdb
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example08WifiNetworks\obj\Debug\Example08WifiNetworks.csproj.AssemblyReference.cache
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example08WifiNetworks\obj\Debug\Example08WifiNetworks.csproj.CoreCompileInputs.cache
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example08WifiNetworks\obj\Debug\Example08WifiNetworks.exe
+C:\Users\Marhaba\source\repos\Web\1.IntroductionToRESTfulAPI\Win32API\Example08WifiNetworks\obj\Debug\Example08WifiNetworks.pdb
