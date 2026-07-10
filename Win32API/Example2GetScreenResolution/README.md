@@ -20,10 +20,9 @@ This project uses `GetSystemMetrics()` from `user32.dll` to retrieve the screen 
 - No external dependencies
 
 ## Preview
+### Original Wallpaper
 
-<p align="center">
-  <img src="TheResolution.png" width="45%" />
-</p>
+<img src="Images/TheResolution.png" width="30%" alt="Original Wallpaper">
 
 ## Author
 
