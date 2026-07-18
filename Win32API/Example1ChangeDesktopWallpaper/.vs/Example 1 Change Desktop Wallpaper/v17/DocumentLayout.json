@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marhaba\\source\\repos\\Web\\1.Introduction to RESTful API\\Example 1 Change Desktop Wallpaper\\",
+  "WorkspaceRootPath": "C:\\Users\\Marhaba\\source\\repos\\Web\\1.IntroductionToRESTfulAPI\\Win32API\\Example1ChangeDesktopWallpaper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{828718E1-4E2C-4FB1-964F-15B634267A69}|Example 1 Change Desktop Wallpaper.csproj|c:\\users\\marhaba\\source\\repos\\web\\1.introduction to restful api\\example 1 change desktop wallpaper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{828718E1-4E2C-4FB1-964F-15B634267A69}|Example 1 Change Desktop Wallpaper.csproj|c:\\users\\marhaba\\source\\repos\\web\\1.introductiontorestfulapi\\win32api\\example1changedesktopwallpaper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{828718E1-4E2C-4FB1-964F-15B634267A69}|Example 1 Change Desktop Wallpaper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,21 +25,25 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marhaba\\source\\repos\\Web\\1.Introduction to RESTful API\\Example 1 Change Desktop Wallpaper\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marhaba\\source\\repos\\Web\\1.IntroductionToRESTfulAPI\\Win32API\\Example1ChangeDesktopWallpaper\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Marhaba\\source\\repos\\Web\\1.Introduction to RESTful API\\Example 1 Change Desktop Wallpaper\\Program.cs",
+              "ToolTip": "C:\\Users\\Marhaba\\source\\repos\\Web\\1.IntroductionToRESTfulAPI\\Win32API\\Example1ChangeDesktopWallpaper\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAwwCAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-09T14:47:57.383Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
